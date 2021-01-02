@@ -1,0 +1,27 @@
+Preliminary Touches...
+
+
+    * PYTHON IDLE/PyCharm [PYTHON 3.5+]
+    
+    * OPEN-WEATHER-MAP Acc. for WEATHER-API-TOKEN (Free)
+                Access current weather data for any location including over 200,000 cities.
+                We collect and process weather data from different sources such as global and local weather models, satellites, radars and vast network of weather stations.
+                JSON, XML, and HTML formats.
+                Available for both Free and paid subscriptions.
+                
+                LINK:  https://openweathermap.org/api
+                
+    * Python Modules Required:
+        
+                ~ PYPI Requests 2.25.1 (updated till date) 
+                                                    
+                                                    -- LINUX TERMINAL COMMAND -->              $ pip install requests
+                                                    -- WINDOWS COMMAND_PROMPT CODE -->         $ py -m pip install requests   OR   $ python -m pip install requests
+                                                    
+                                                    
+                                                    -- To upgrade PIP Module to the latest version -->
+                                                    
+                                                                                               $ py -m pip install --upgrade pip  (WINDOWS)
+                                                                                               
+                                                                                               $ (sudo) python3 -m pip install --upgrade pip       (For LINUX PYTHON-3)
+                                                                                               $ (sudo) python2 -m pip install --upgrade pip       (For LINUX PYTHON-2)
