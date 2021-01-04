@@ -1,0 +1,34 @@
+Preliminary Touches...
+
+
+    * PYTHON IDLE/PyCharm [PYTHON 3.5+]
+    
+    * GOLDAPI.IO Acc. for SILVER-API-TOKEN (Free)   [WELL, THIS IS OPTIONAL! CHECK MY NON-API PYTHON FILE...]
+                Sandbox Plan -- [Free]
+                
+                */ Up to 500/reqs per Month
+                */ Daily Historical Prices
+                */ 2 sec Update Interval
+                */ Limited Support
+                */ No Card Required. No Lock-in Contract.  
+                
+                [Available for both Free and paid [$39 USD/month] subscriptions.]
+                
+                
+                LINK:  https://www.goldapi.io/
+                
+                
+    * Python Modules Required:
+        
+                ~ PYPI urllib3 1.26.2 (updated till date) 
+                                                    
+                                                    -- LINUX TERMINAL COMMAND -->              $ pip install urllib3
+                                                    -- WINDOWS COMMAND_PROMPT CODE -->         $ py -m pip install urllib3   OR   $ python -m pip install urllib3
+                                                    
+                                                    
+                                                    -- To upgrade PIP Module to the latest version -->
+                                                    
+                                                                                               $ py -m pip install --upgrade pip  (WINDOWS)
+                                                                                               
+                                                                                               $ (sudo) python3 -m pip install --upgrade pip       (For LINUX PYTHON-3)
+                                                                                               $ (sudo) python2 -m pip install --upgrade pip       (For LINUX PYTHON-2)
